@@ -1,0 +1,27 @@
+body {
+    background-color:aqua;
+    color:black;
+}
+
+.div1 {
+    background-color: blue;
+    width: 100%;
+}
+
+canvas {
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px purple;
+}
+
+#copy_right_footer {
+    background-color: green;
+    bottom: 0;
+    position: fixed;
+    width:100%;
+}
+
+canvas {
+    border: 7px solid white;
+    border-radius: 20px;
+    box-shadow: 7px 7px 7px grey;
+}
